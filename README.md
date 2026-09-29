@@ -76,15 +76,15 @@ The environment is being designed to transition from an ordinary university buil
 
 ### Computer Lab
 
-<img src="images/computer-lab.png" width="700">
+<img src="help-desk-images/computer-lab.png" width="700">
 
 ### Classroom
 
-<img src="images/auditorium.png" width="700">
+<img src="help-desk-images/auditorium.png" width="700">
 
 ### Help Desk
 
-<img src="images/help-desk.png" width="700">
+<img src="help-desk-images/help-desk.png" width="700">
 
 ---
 
